@@ -105,7 +105,7 @@ This function deals with two scenarios: it has reached the end of this list, in 
 
 ## Reduce
 
-Reduce is a special case of recursion where an a data structure (e.g. an array)  is reduced down to single value. For this example we will look at sum.
+Reduce is a special case of recursion where a data structure (e.g. an array)  is reduced down to single value. For this example we will look at sum.
 
 ```javascript
 function sum (values) {
